@@ -1,2 +1,2 @@
-# jenkingdemo1
-Repo para probar Jenking
+# jenkinsdemo1
+Repo para probar Jenkins
